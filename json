@@ -1,7 +1,8 @@
 {
   "mode": "true",
   "links": {
-    "1": "https://www.google.com"
+    "1": "https://www.google.com",
+    "2": "https://yandex.ru/"
   },
   "countries": [
     "PT"
